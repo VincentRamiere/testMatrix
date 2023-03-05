@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'matrixCodeNFI';
-    src: url('/Fonts/matrix-code-nfi/matrixCodeNFI.ttf') format('truetype')
+    src: url('./Fonts/matrix-code-nfi/matrixCodeNFI.ttf') format('truetype')
 }
 
 body {

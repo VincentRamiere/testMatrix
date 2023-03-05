@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'matrixCodeNFI';
+    src: url('/Fonts/matrix-code-nfi/matrixCodeNFI.ttf') format('truetype')
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
